@@ -1,3 +1,4 @@
+//This is the arduino code for LED VU Meter
 #include <Wire.h>
 #include <LiquidCrystal_I2C.h>
 
